@@ -1,4 +1,3 @@
-Sure! Here's an updated README file for your repository that includes a detailed explanation of the `LongList` class and how it works, along with a table of contents and an introductory section:
 
 ```markdown
 # Java-utils
@@ -8,7 +7,7 @@ Some Java utility classes that I created for some of my Closed Source projects.
 In this repository, I will keep uploading some Java utility classes that I've developed and used in my Closed Source projects.
 
 ## Table of Contents
-- [LongList](#longlist)
+- [LongList]
 
 ## LongList
 

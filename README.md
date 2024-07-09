@@ -60,9 +60,6 @@ Current working directory is the default path where the `LongList` will store th
 
 This class stores Java Objects on the disk. Uses LRUMap internally. I created this utility class to display 'Recently viewed TV shows' list shown below.
 
-<img height="500" src="https://raw.githubusercontent.com/NandanDesai/res/master/usage-of-objectstore.png">
-
-
 
 ## SimpleGraphView
 
@@ -175,7 +172,6 @@ resource "aws_instance" "web" {
 ## License 
 
 Copyright 2024 Moustapha Iradukunda
-Licensed under the Apache License, Version 2.0 (the "License");
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
